@@ -4,6 +4,8 @@ This project was developed as part of the **Shell–Edunet Skills4Future AICTE-A
 
 ---
 
+Dataset- https://drive.google.com/file/d/1d5jvHsLohFPunHH7FBd02P2M-l8OReQF/view?usp=drive_link
+
 ## 🔍 Problem Statement
 
 Identifying tree species manually is time-consuming, error-prone, and requires domain expertise. The goal of this project is to build a deep learning-based model that automates this process by classifying tree species from images, aiding in biodiversity conservation, forestry management, and environmental monitoring.
